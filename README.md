@@ -1,8 +1,8 @@
 # 📄 Documento API
 
-API REST desenvolvida com Spring Boot para gerenciar Documentos e Categorias.
-Objetivo: Desenvolver uma aplicação Spring Boot que implemente um CRUD com relacionamento entre duas entidades (ex.: **Documento e Categoria**) e disponibilize a documentação da API utilizando **Swagger**.
-📚 Disciplina: Arquitetura de Aplicacoes Web 👨‍🏫 Professor: Leonardo Vieira Guimarãe 🏫 Instituição: Centro Universitário Newton Paiva ✍️ Aluno: Douglas Coimbra Laass.
+<h5>API REST desenvolvida com Spring Boot para gerenciar Documentos e Categorias.</h5>
+<h5>Objetivo: Desenvolver uma aplicação Spring Boot que implemente um CRUD com relacionamento entre duas entidades (ex.: **Documento e Categoria**) e disponibilize a documentação da API utilizando **Swagger**.</h5>
+<h5>📚 Disciplina: Arquitetura de Aplicacoes Web 👨‍🏫 Professor: Leonardo Vieira Guimarãe 🏫 Instituição: Centro Universitário Newton Paiva ✍️ Aluno: Douglas Coimbra Laass.</h5>
 
 ---
 
