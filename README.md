@@ -7,6 +7,7 @@
 ---
 
 ## 🚀 Funcionalidades
+
 - CRUD completo de Categorias e Documentos
 - Relacionamento entre entidades
 - Banco de dados H2 (em memória)
@@ -15,6 +16,7 @@
 ---
 
 ## 🧰 Tecnologias
+
 - Java 17
 - Spring Boot 3
 - Spring Data JPA
