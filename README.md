@@ -28,10 +28,10 @@
 
 ## 📘 Caractéristicas
 
-• Duas entidades relacionadas (ex.: Documento e Categoria).
-• Operações CRUD completas para ambas as entidades.
-• Spring Data JPA para persistência.
-• Swagger para documentação da API.
+- Duas entidades relacionadas (ex.: Documento e Categoria).
+- Operações CRUD completas para ambas as entidades.
+- Spring Data JPA para persistência.
+- Swagger para documentação da API.
 
 
 --
@@ -53,7 +53,7 @@ Swagger: http://localhost:8080/swagger-ui.html
 https://appweb-categoryhosting.onrender.com
 
 📘 Documentação Swagger
-https://seu-projeto-render.onrender.com/swagger-ui.html
+https://dashboard.render.com/static/srv-d4efneidbo4c73dg3s7g/previews
 
 ---
 
