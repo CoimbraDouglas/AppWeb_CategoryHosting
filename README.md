@@ -50,7 +50,7 @@ Swagger: http://localhost:8080/swagger-ui.html
 ---
 
 🌐 Deploy no Render
-https://seu-projeto-render.onrender.com
+https://appweb-categoryhosting.onrender.com
 
 📘 Documentação Swagger
 https://seu-projeto-render.onrender.com/swagger-ui.html
