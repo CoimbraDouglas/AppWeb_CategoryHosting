@@ -31,7 +31,7 @@
 - Duas entidades relacionadas (ex.: Documento e Categoria).
 - Operações CRUD completas para ambas as entidades.
 - Spring Data JPA para persistência.
-- Swagger para documentação da API.
+- Swagger para documentação da API..
 
 
 --
