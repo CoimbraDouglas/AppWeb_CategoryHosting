@@ -15,7 +15,7 @@
 
 ---
 
-## 🧰 Tecnologias
+## 🧰 Tecnologias Usadas Nesse Projeto
 
 - Java 17
 - Spring Boot 3
@@ -41,6 +41,7 @@
 ```bash
 mvn spring-boot:run
 ```
+
 Acesse:
 
 API: http://localhost:8080
@@ -60,6 +61,24 @@ https://dashboard.render.com/static/srv-d4efneidbo4c73dg3s7g/previews
 📚 Referência Swagger
 
 Documentação oficial do Swagger
+
 ```
 https://swagger.io/docs
 ```
+
+---
+
+o 📘 Links dos vídeos de apoio:
+▪
+http://youtube.com/watch?v=7x88AlD3Iv8
+▪
+https://www.youtube.com/watch?v=fwWvgk_SW2g
+
+---
+
+o 📘 Documentação
+•
+Incluir no README:
+o
+Link da documentação Swagger:
+https://seu-projeto-render.onrender.com/swagger-ui.html (substitua pelo link real)
