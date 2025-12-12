@@ -8,10 +8,10 @@
 
 ## 🚀 Funcionalidades
 
-- CRUD completo de Categorias e Documentos
-- Relacionamento entre entidades
-- Banco de dados H2 (em memória)
-- Documentação com Swagger
+- CRUD completo de Categorias e Documentos.
+- Relacionamento entre entidades.
+- Banco de dados H2 (em memória).
+- Documentação com Swagger.
 
 ---
 
