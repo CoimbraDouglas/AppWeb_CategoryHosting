@@ -72,14 +72,7 @@ https://swagger.io/docs
 
 ## 📘 Links dos vídeos de apoio:
 
-▪
-http://youtube.com/watch?v=7x88AlD3Iv8
-▪
-https://www.youtube.com/watch?v=fwWvgk_SW2g
+* http://youtube.com/watch?v=7x88AlD3Iv8
 
----
+* https://www.youtube.com/watch?v=fwWvgk_SW2g
 
-## 📘 Documentação
-
-* Link da documentação Swagger:
-https://seu-projeto-render.onrender.com/swagger-ui.html (substitua pelo link real)
