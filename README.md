@@ -3,7 +3,7 @@
 **API REST** desenvolvida com `Spring Boot` para gerenciar Documentos e Categorias.
 Objetivo: Desenvolver uma aplicação Spring Boot que implemente um CRUD com relacionamento entre duas entidades (ex.: Documento e Categoria) e disponibilize a documentação da API utilizando Swagger.
 
-📚 Disciplina: Arquitetura de Aplicacoes Web 👨‍🏫 Professor: Leonardo Vieira Guimarãe 🏫 Instituição: Centro Universitário Newton Paiva ✍️ Aluno: Douglas Coimbra Laass.
+📚 **Disciplina:** Arquitetura de Aplicacoes Web 👨‍🏫 **Professor:** Leonardo Vieira Guimarãe 🏫 **Instituição:** Centro Universitário Newton Paiva ✍️ **Aluno:** Douglas Coimbra Laass.
 
 ---
 
@@ -62,7 +62,7 @@ https://dashboard.render.com/static/srv-d4efneidbo4c73dg3s7g/previews
 
 ## 📚 Referência Swagger
 
-Documentação oficial do Swagger
+Documentação oficial do Swagger no site oficial, basta acessar o link abaixo:
 
 ```
 https://swagger.io/docs
