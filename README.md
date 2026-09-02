@@ -30,7 +30,7 @@ Objetivo: Desenvolver uma aplicação Spring Boot que implemente um CRUD com rel
 ## 📘 Caractéristicas
 
 - Duas entidades relacionadas (ex.: Documento e Categoria).
-- Operações CRUD completas para ambas as entidades.
+- Operações CRUD validada e completas para ambas as entidades.
 - Spring Data JPA para persistência.
 - Swagger para documentação da API.
 
