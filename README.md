@@ -11,8 +11,8 @@ Objetivo: Desenvolver uma aplicação Spring Boot que implemente um CRUD com rel
 
 * CRUD completo de Categorias e Documentos.
 * Relacionamento entre entidades.
-* Banco de dados H2 (em memória).
-* Documentação com Swagger.
+* Banco de dados H2 (em memória local).
+* Documentação da aplicação com Swagger.
 
 ---
 
